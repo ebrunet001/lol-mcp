@@ -6,13 +6,18 @@
 
 ## Features
 
-- **13 MCP tools** for comprehensive LoL data access
+- **26 MCP tools** for comprehensive LoL data access
+- **No Riot API key needed** — built-in key, just connect and play
 - Player profiles — search players by Riot ID across all regions
 - Ranked stats — tier, rank, LP, win/loss ratio, league standings
-- Match history — recent matches with detailed statistics
-- Champion mastery — mastery levels, points, and top champions
+- Match history — detailed stats with damage breakdown (physical/magic/true) and objectives
+- Champion mastery — levels, points, progression to next level, season milestones
 - Live game lookup — scout opponents in real time
-- AI-powered performance analysis — personalized coaching and improvement suggestions
+- League standings — Challenger, Grandmaster, Master leaderboards and ranked entries
+- Clash — tournament info, teams, and player registrations
+- Challenges — player challenge progression, leaderboards, and configs
+- AI-powered performance analysis — position-adjusted benchmarks, damage breakdown, personalized coaching
+- Player comparison — side-by-side stats with damage type analysis
 - Works with **Claude Desktop, Claude Code, ChatGPT** and any MCP-compatible client
 
 ## Quick Start
